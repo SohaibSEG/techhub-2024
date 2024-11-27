@@ -4,7 +4,7 @@ This project contains my solutions to the TechHub 2024 challenges, an event host
 
 ## Event Details
 
-- **Description:** Annual Problem Solving Competion Using Programming
+- **Description:** Problem Solving Competion
 - **Date:** 23rd November 2024
 - **Location:** National Higher School of Telecommunications and ICT - Oran
 
